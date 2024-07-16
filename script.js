@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "Fraude": ["Prevenção", "Investigação"],
         "Ética": ["Conduta", "Integridade"],
         "Segurança": ["Dados", "Proteção"],
-        "Relatório": ["Transparência", "Auditoria"]
+        "Auditoria": ["Transparência", "Controle"]
     };
 
     let selectedWords = [];
